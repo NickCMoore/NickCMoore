@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**NickCMoore/NickCMoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 - 🔭 I’m currently working on a fun, interactive JavaScript Christmas food quiz at https://nickcmoore.github.io/xmas-food-quiz/
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on front-end projects
