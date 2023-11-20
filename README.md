@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **a fun, interactive JavaScript Christmas food quiz at https://nickcmoore.github.io/xmas-food-quiz/**
 - 🌱 I’m currently learning **JavaScript**
 - 👯 I’m looking to **collaborate on front-end projects**
-- ⚡ Fun fact **I'm a black belt in Taekwondo!**
+- ⚡ Fun fact - **I'm a black belt in Taekwondo!**
 
 
 <!--
