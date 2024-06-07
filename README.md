@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’ve just finished **an interactive text-based game combining storytelling, puzzle-solving, and decision-making. [Eldoria Text Adventure](https://github.com/NickCMoore/eldoria-text-adventure)**
-- 🌱 I’m currently learning about **Bootstrap**
+- 🔭 After having a couple of months off for the birth of our second child, I'm about to get started on a Full Stack project utilising the Django Framework.
+- 🌱 I’m currently learning about **Django**
 - 👯 I’m looking to **collaborate on front and back-end projects**
 - ⚡ Fun fact - **I'm a black belt in Taekwondo!**
 
