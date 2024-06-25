@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 After having a couple of months off for the birth of our second child, I'm about to get started on a Full Stack project utilising the Django Framework.
+- 🔭 After having a couple of months off for the birth of our second child, I've just started working on a Full Stack project for an amateur orchestra utilising the Django Framework.
 - 🌱 I’m currently learning about **Django**
 - 👯 I’m looking to **collaborate on front and back-end projects**
 - ⚡ Fun fact - **I'm a black belt in Taekwondo!**
