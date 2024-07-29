@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 After having a couple of months off for the birth of our second child, I'm working on a Full Stack project for an amateur orchestra utilising the Django Framework.
-- 🌱 I’m currently learning about the **Django** framework
+- 🔭 After having a couple of months off for the birth of our second child, I've just finished a Full Stack project for an amateur orchestra utilising the Django Framework.
+- 🌱 I’m currently learning about the **React** JS library.
 - 👯 I’m looking to **collaborate on front and back-end projects**
 - ⚡ Fun fact - **I'm a black belt in Taekwondo!**
 
